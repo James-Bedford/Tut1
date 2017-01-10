@@ -1,1 +1,2 @@
-A nice easy start to git
+A nice easy start to git.
+After branch created.
