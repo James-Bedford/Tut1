@@ -1,4 +1,10 @@
 A nice easy start to git.
 After branch created.
+<<<<<<< HEAD
 Hot fix loaded on.
 
+=======
+next line added.
+issues 53 fixed.
+more issue 53 added.
+>>>>>>> iss53
