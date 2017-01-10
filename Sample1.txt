@@ -1,2 +1,4 @@
 A nice easy start to git.
 After branch created.
+next line added.
+issues 53 fixed.
